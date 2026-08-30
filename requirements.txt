@@ -1,2 +1,6 @@
 python-telegram-bot
+telethon
 httpx
+PySocks
+cryptg
+pytz
